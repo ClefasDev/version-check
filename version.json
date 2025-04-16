@@ -3,7 +3,7 @@
     "version": "1.5.9",
     "state": "BETA - B",
     "info": "Fix in battery system, jobs and change battery.",
-    "files": "_escrow_files ^3(All)^0, client/framework.lua"
+    "files": "`_escrow_files ^3(All)`^0, `client/framework.lua`"
   },
   "stNotify": {
     "version": "2.0.0",
