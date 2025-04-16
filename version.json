@@ -1,7 +1,8 @@
 {
   "stRadio": {
-    "version": "1.5.9-B (Battery Fix)",
-    "info": "Beta"
+    "version": "1.5.9",
+    "info": "Beta",
+    "desc": "Fix in battery system, jobs and change battery."
   },
   "stNotify": {
     "version": "2.0.0",
