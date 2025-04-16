@@ -1,0 +1,10 @@
+{
+  "stRadio": {
+    "version": "1.5.9",
+    "info": "Beta"
+  },
+  "stNotify": {
+    "version": "2.0.0",
+    "info": "Stable"
+  }
+}
