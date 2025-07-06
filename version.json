@@ -1,8 +1,8 @@
 {
   "stRadio": {
     "version": "1.5.9",
-    "state": "BETA - B",
-    "info": "Fix in battery system, jobs and change battery.",
+    "state": "BETA - C",
+    "info": "Some fixes.",
     "files": "'_escrow_files ^3(All)^0', '^3client/^0framework.lua'"
   },
   "stNotify": {
