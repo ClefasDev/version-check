@@ -1,9 +1,9 @@
 {
   "stRadio": {
-    "version": "1.5.9",
-    "state": "BETA - D",
-    "info": "Some fixes.",
-    "files": "'_escrow_files ^3(All)^0', '^3client/^0framework.lua'"
+    "version": "1.5.9-1",
+    "state": "BETA",
+    "info": "Add export to server.",
+    "files": "'_escrow_files ^3(All)^0', '^3html/js/^0main.js', 'fxmanifest.lua'"
   },
   "stNotify": {
    "version": "1.1.4",
