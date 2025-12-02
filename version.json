@@ -1,7 +1,7 @@
 {
   "stRadio": {
-    "version": "1.6.1",
-    "state": "HotFix",
+    "version": "1.6.6",
+    "state": "Release",
     "info": "Check the patch notes.",
     "files": "html/js/main.js, escrow_files ALL, config/DLCs/animations.lua, config/DLCs/custom_animations/ NEW FOLDER, fxmanifest.lua"
   },
