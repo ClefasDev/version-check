@@ -1,9 +1,9 @@
 {
   "stRadio": {
-    "version": "1.6.6",
+    "version": "1.6.7",
     "state": "Release",
-    "info": "Check the patch notes.",
-    "files": "html/js/main.js, escrow_files ALL, config/DLCs/animations.lua, config/DLCs/custom_animations/ NEW FOLDER, fxmanifest.lua"
+    "info": "check discord updates",
+    "files": "check discord updates"
   },
   "stNotify": {
    "version": "1.1.4",
